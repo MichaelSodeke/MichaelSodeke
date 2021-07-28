@@ -40,7 +40,7 @@ My interests are in *Computer Science* and *Investment Banking*, and my future g
 In 2020 I paid for and enrolled in Andrew Ng’s **Stanford** *Machine Learning Certification program*, where
 I learned how to implement supervised and unsupervised machine learning algorithms, such as linear
 regression, logistic regression and neural networks, as well as anomaly detection. The course was difficult
-and revealed how essential mathematics was in this field. This expereice further developed my interest in
+and revealed how essential mathematics was in this field. This experience further developed my interest in
 modeling complex systems: social, economic, biological, financial, etc. However, I was still confused about
 whether or not *Data Science* and *Machine Learning* were separate fields.
 

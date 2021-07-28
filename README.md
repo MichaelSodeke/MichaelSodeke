@@ -35,30 +35,35 @@ Here are some ideas to get you started:
 
 ## ABOUT ME 
 My name is Michael Sodeke. I am a Mathematics major specializing in *Computational Mathematics*, graduating in 2022.
-My interests are in *Computer Science* and *Investment Banking*, and my future goal is to work as a *Quant Developer*.
+I am seeking employment as a *Linux System Administrator*. In addition, my
+future goal is to work as a *Quant Developer*.
 
 In 2020 I paid for and enrolled in Andrew Ng’s **Stanford** *Machine Learning Certification program*, where
-I learned how to implement supervised and unsupervised machine learning algorithms, such as linear
-regression, logistic regression and neural networks, as well as anomaly detection. The course was difficult
-and revealed how essential mathematics was in this field. This experience further developed my interest in
-modeling complex systems: social, economic, biological, financial, etc. However, I was still confused about
-whether or not *Data Science* and *Machine Learning* were separate fields.
+I learned how to implement supervised and unsupervised machine learning algorithms, such as linear regression,
+logistic regression, and neural networks, as well as anomaly detection. The course revealed how essential
+mathematics was in this field. This experience further developed my interest in modeling complex systems:
+social, economic, biological, financial, etc. However, I was still confused about whether or not
+*Data Science* and *Machine Learning* were separate fields.
 
-Later on, I learned about the *Data Science pipeline* and its implementation through the **Johns Hopkins
-University** *Data Science Certification program*. Throughout this program, I discovered that Machine
-Learning was part of the pipeline, referred to as *Predictive Analysis*. Unfortunately, the instructors decided
-to use pre-made algorithms from ML libraries instead of showing how to build these same algorithms from
-scratch using math formulas in order to teach the course. Thus, I had to do extra work by searching online
-for PDF documents from Dartmouth, Stanford and MIT on how to build ML algorithms with math formulas.
-I was successful and later on passed the course.
+Later on, I learned about the *Data Science pipeline* and its implementation through the **Johns Hopkins 
+University** *Data Science Certification program*. I also discovered that Machine Learning, referred to as
+*Predictive Analysis*, was part of the Data Science pipeline. Unfortunately, the instructors decided to use
+pre-made algorithms from ML libraries instead of showing how to build these same algorithms from scratch using
+math formulas to teach the course. Thus, I searched online for PDF documents from Dartmouth, Stanford, and MIT
+about ML algorithms and how to construct them with math formulas. I was successful in my efforts and later on
+passed the course.
 
-Also in 2020, I interned as a *Sector Analyst* for the **Davis Investment Group** where I was assigned to
-keep track of certain stocks held by the firm. Paying close attention to news surrounding key economic
-sectors, and how they affected each other, was essential.
+Also, in 2020, I interned as a *Sector Analyst* for the **Davis Investment Group**, where I was assigned to
+keep track of certain stocks held by the firm. Paying close attention to economic sectors, and how they
+affected each other, was essential.
 
 In addition, I participated in *Carnegie Mellon University’s* 2021 **PicoCTF** network security competition
 this Spring. The competition was a great way for me to improve my programming and ethical hacking skills.
 Unfortunately, I did not complete all the problems, but I am preparing for the next competition this Fall.
+
+In addition, I participated in *Carnegie Mellon University's* 2021 **PicoCTF** network security competition
+this Spring. The competition helped me improve my programming and ethical hacking skills. Unfortunately, I
+did not complete all the problems, but I am preparing for the next round this Fall 2021.
 
 <!--
 # GIT STATS

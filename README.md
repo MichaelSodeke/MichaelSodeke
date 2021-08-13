@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/latex.svg"></code>
 
 
-
+<!--
 ## ABOUT ME 
 My name is Michael Sodeke. I am a Mathematics major specializing in *Computational Mathematics*, graduating in 2022.
 I am seeking employment as a *Linux System Administrator*. In addition, my
@@ -65,7 +65,7 @@ In addition, I participated in *Carnegie Mellon University's* 2021 **PicoCTF** n
 this Spring. The competition helped me improve my programming and ethical hacking skills. Unfortunately, I
 did not complete all the problems, but I am preparing for the next round this Fall 2021.
 
-<!--
+
 # GIT STATS
 
 ![Michael's stats](https://github-readme-stats.vercel.app/api?username=MichaelSodeke&show_icons=true)

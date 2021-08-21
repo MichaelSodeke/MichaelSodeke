@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 [![Github](https://img.shields.io/github/followers/MichaelSodeke?label=Follow&style=social)](https://github.com/MichaelSodeke)
 [![Linkedin](https://img.shields.io/badge/-Michael%20Šòdéké-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/michaelsodeke/)](https://www.linkedin.com/in/michaelsodeke/)
 [![Mail](https://img.shields.io/badge/-sodeke93@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:sodeke93@gmail.com)
+-->
 
 
 

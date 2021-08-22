@@ -9,8 +9,8 @@
 -->
 
 <!--about me-->
----
 <h3 align="left">About Me</h3>
+--
 <p align="left">
     My name is Michael Šòdéké. I am a Mathematics major specializing in Computational Mathematics, graduating in 2022.
     My future goal is to work as an Investment Banker for three years at a bulge bracket bank, then later work for an
@@ -18,8 +18,8 @@
 </p>
 
 <!--financial interest-->
----
 <h3 align="left">Financial Interest</h3>
+--
 <p align="left">
     What attracts me to Investment Banking would be raising capital for companies and
     governments, as well as advising them on how they can meet their financial challenges.

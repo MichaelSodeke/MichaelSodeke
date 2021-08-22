@@ -1,74 +1,39 @@
-### Hi there 👋. My name is Michael Šòdéké.
+<!--my name-->
+<h1 align="center">Michael Šòdéké</h1>
+<h3 align="center">A computational biologist at Harvard Medical School.</h3>
 
-<!--
-**MichaelSodeke/MichaelSodeke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://www.linkedin.com/in/michaelsodeke" target="blank"><img src="https://img.shields.io/badge/michaelsodeke?style=for-the-badge&logo=logo=linkedin&color=blue" alt=michaelsodeke" /></a>
+</p>
 
-Here are some ideas to get you started:
+<!--about me-->
+<h3 align="left">About Me</h3>
+<p align="left">
+    My name is Michael Šòdéké. I am a Mathematics major specializing in Computational Mathematics, graduating in 2022.
+    My future goal is to work as an Investment Banker for three years at a bulge bracket bank, then later work for an
+    additional three years as a Quantitative Trader at the same bank.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!--financial interest-->
+<h3 align="left">Financial Interest</h3>
+<p align="left">
+    What attracts me to Investment Banking would be raising capital for companies and
+    governments, as well as advising them on how they can meet their financial challenges.
+    I plan on creating my own tech start-up based on developing hardware and software for
+    IoT devices. The experiences I gain from working as an Investment Banker will assist
+    me well when managing my firm's financial affairs.
+</p>
 
+<p align="left">
+    In addition, what attracts me to finance, in general, is the exchangement of funds and
+    currencies that create value in a society and its economy. My position is that events, such
+    as Nixon taking the U.S. off the Bretton-Woods system, the 2008 stock market and housing
+    crash, the 2010 flash crash, or the recent COVID-19 pandemic, illustrate the importance of
+    being financially literate during financial and economic crises. Having such literacy
+    ensures that I will be secure and retain financial mobility.
+</p>
 
-[![Github](https://img.shields.io/github/followers/MichaelSodeke?label=Follow&style=social)](https://github.com/MichaelSodeke)
-[![Linkedin](https://img.shields.io/badge/-Michael%20Šòdéké-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/michaelsodeke/)](https://www.linkedin.com/in/michaelsodeke/)
-[![Mail](https://img.shields.io/badge/-sodeke93@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:sodeke93@gmail.com)
--->
-
-
-
-## SKILLS
-<code><img height="50" src="https://d33wubrfki0l68.cloudfront.net/a49c5f63d431650c696cfd10cb70c880726281df/c9f07/img/logo.png"></code>
-<code><img height="50" src="https://brandeps.com/logo-download/D/Debian-logo-vector-01.svg"></code>
-<code><img height="50" src="https://brandeps.com/logo-download/C/C++-logo-vector-01.svg"></code>
-<code><img height="50" src="https://brandeps.com/logo-download/C/C-logo-vector-01.svg"></code>
-<code><img height="50" src="https://brandeps.com/logo-download/P/Python-logo-vector-01.svg"></code>
-<code><img height="50" src="https://brandeps.com/logo-download/S/SQLite-logo-vector-01.svg"></code>
-<code><img height="50" src="https://brandeps.com/logo-download/V/Vmware-logo-vector-01.svg"></code>
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/latex.svg"></code>
-
-
-<!--
-## ABOUT ME 
-My name is Michael Sodeke. I am a Mathematics major specializing in *Computational Mathematics*, graduating in 2022.
-I am seeking employment as a *Linux System Administrator*. In addition, my
-future goal is to work as a *Quant Developer*.
-
-In 2020 I paid for and enrolled in Andrew Ng’s **Stanford** *Machine Learning Certification program*, where
-I learned how to implement supervised and unsupervised machine learning algorithms, such as linear regression,
-logistic regression, and neural networks, as well as anomaly detection. The course revealed how essential
-mathematics was in this field. This experience further developed my interest in modeling complex systems:
-social, economic, biological, financial, etc. However, I was still confused about whether or not
-*Data Science* and *Machine Learning* were separate fields.
-
-Later on, I learned about the *Data Science pipeline* and its implementation through the **Johns Hopkins 
-University** *Data Science Certification program*. I also discovered that Machine Learning, referred to as
-*Predictive Analysis*, was part of the Data Science pipeline. Unfortunately, the instructors decided to use
-pre-made algorithms from ML libraries instead of showing how to build these same algorithms from scratch using
-math formulas to teach the course. Thus, I searched online for PDF documents from Dartmouth, Stanford, and MIT
-about ML algorithms and how to construct them with math formulas. I was successful in my efforts and later on
-passed the course.
-
-Also, in 2020, I interned as a *Sector Analyst* for the **Davis Investment Group**, where I was assigned to
-keep track of certain stocks held by the firm. Paying close attention to economic sectors, and how they
-affected each other, was essential.
-
-In addition, I participated in *Carnegie Mellon University’s* 2021 **PicoCTF** network security competition
-this Spring. The competition was a great way for me to improve my programming and ethical hacking skills.
-Unfortunately, I did not complete all the problems, but I am preparing for the next competition this Fall.
-
-In addition, I participated in *Carnegie Mellon University's* 2021 **PicoCTF** network security competition
-this Spring. The competition helped me improve my programming and ethical hacking skills. Unfortunately, I
-did not complete all the problems, but I am preparing for the next round this Fall 2021.
+<!--relevant skills-->
 
 
-# GIT STATS
-
-![Michael's stats](https://github-readme-stats.vercel.app/api?username=MichaelSodeke&show_icons=true)
--->
-
+<!--financial engineering projects>

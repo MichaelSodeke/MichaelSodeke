@@ -2,8 +2,8 @@
 <h1 align="center">Michael Šòdéké</h1>
 <h3 align="center">A Mathematician at University of Idaho.</h3>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/michaelsodeke" target="blank"><img src="https://img.shields.io/badge/michaelsodeke?style=for-the-badge&logo=logo=linkedin&color=blue" alt=michaelsodeke" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/michaelsodeke" target="blank"><img src="https://img.shields.io/badge/michaelsodeke?style=for-the-badge&logo=linkedin&color=blue" alt=michaelsodeke" /></a>
 </p>
 
 <!--about me-->

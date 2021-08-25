@@ -11,7 +11,7 @@
 <!--about me-->
 <h3 align="left">About Me</h3>
 <p align="left">
-    My name is Michael Šòdéké. I am a Mathematics major specializing in Computational Mathematics, graduating in 2022.
+    My name is Michael Šòdéké. I am a Mathematics major specializing in Computational Mathematics, graduating in 202X.
     My future goal is to work as an Investment Banker for three years at a bulge bracket bank, then later work for an
     additional three years as a Quantitative Trader at the same bank.
 </p>

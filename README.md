@@ -10,7 +10,7 @@
 
 <!--about me-->
 <h3 align="left">About Me</h3>
-<p align="left">
+<p align="left", style="color:gray;">
     My name is Michael Šòdéké. I am a Mathematics major specializing in Computational Mathematics, graduating in 202X.
     My future goal is to work as an Investment Banker for three years at a bulge bracket bank, then later work for an
     additional three years as a Quantitative Trader at the same bank.
@@ -18,7 +18,7 @@
 
 <!--financial interest-->
 <h3 align="left">Financial Interest</h3>
-<p align="left">
+<p align="left", style="color:gray;">
     What attracts me to Investment Banking would be raising capital for companies and
     governments, as well as advising them on how they can meet their financial challenges.
     I plan on creating my own tech start-up based on developing hardware and software for
@@ -26,7 +26,7 @@
     me well when managing my firm's financial affairs.
 </p>
 
-<p align="left">
+<p align="left", style="color:gray;">
     In addition, what attracts me to finance, in general, is the exchangement of funds and
     currencies that create value in a society and its economy. My position is that events, such
     as Nixon taking the U.S. off the Bretton-Woods system, the 2008 stock market and housing

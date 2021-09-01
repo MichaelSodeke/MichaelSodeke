@@ -19,15 +19,15 @@
 <!--financial interest-->
 <h3 align="left">Financial Interest</h3>
 <p align="left", style="color:gray;">
-    Investment Banking involves raising capital for companies and governments, as well as advising them on how they can
-    meet their financial challenges. My initial plan is to create a tech start-up based on developing hardware and software for
-    IoT devices. The experiences gained from working as an Investment Banker will assist me well when managing my firm's
-    financial affairs.
+    My goal working as an Investment Banker is to gain experience learning how to raise capital for a company or government, as 
+    well as learning how to advise them on ways they can meet their financial challenges. Also, I plan to create a tech start-up
+    based on developing hardware and software for IoT devices. Therefore, the experiences gained working as an Investment
+    Banker will assist me well when managing my firm's financial affairs.
 </p>
 
 <p align="left", style="color:gray;">
-    In addition, capital markets involve the exchangement of funds and currencies that create value in a society and its
-    economy. Events, such as Nixon taking the U.S. off the Bretton-Woods system, the 2008 stock market and housing
+    In addition, my interest in capital markets involve developing financial literacy of how the exchangement of funds and currencies 
+    create value in a society and its economy. Events, such as Nixon taking the U.S. off the Bretton-Woods system, the 2008 stock market and housing
     crash, the 2010 flash crash, or the recent COVID-19 pandemic, illustrate the importance of being financially literate
     during financial and economic crises. Having such literacy ensures that I'll be secure financially, retain financial mobility,
     and increase my socio-economic status.

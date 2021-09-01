@@ -19,7 +19,7 @@
 <!--financial interest-->
 <h3 align="left">Financial Interest</h3>
 <p align="left", style="color:gray;">
-    My goal working as an Investment Banker is to gain experience learning how to raise capital for companies or governments, as 
+    My goal working as an Investment Banker is to gain experience learning how to raise capital for companies and governments, as 
     well as learning how to advise them on ways they can meet their financial needs. Also, I plan to create a tech start-up
     based on developing hardware and software for IoT devices. Therefore, the experiences gained working as an Investment
     Banker will assist me well when managing my firm's financial affairs.

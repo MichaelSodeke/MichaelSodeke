@@ -26,7 +26,7 @@
 </p>
 
 <p align="left", style="color:gray;">
-    In addition, my interest in capital markets involve developing financial literacy of how the exchangement of funds and currencies help
+    In addition, my interest in capital markets involve developing financial literacy on how the exchangement of funds and currencies help
     create value in a society and its economy. Events, such as Nixon taking the U.S. off the Bretton-Woods system, the 2008 stock market and housing
     crash, the 2010 flash crash, or the recent COVID-19 pandemic, illustrate the importance of being financially literate
     during financial and economic crises. With such literacy I'll be able to secure my finances, retain my financial mobility,

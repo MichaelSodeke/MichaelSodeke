@@ -46,6 +46,6 @@
 
 > **Financial**
 >
-> Valuation: `M & A` `Leveraged Buyout`
+> Valuation: `M & A` `Leveraged Buyout` `Comparable Comps` | Trading: `Equities Market` `Commodities Market`
 
 <!--financial engineering projects>

@@ -16,6 +16,8 @@
     additional three years as a Quantitative Trader at the same bank.
 </p>
 
+#
+
 <!--financial interest-->
 <h3 align="left">Financial Interest</h3>
 <p align="left", style="color:gray;">
@@ -33,7 +35,17 @@
     and increase my socio-economic status.
 </p>
 
-<!--relevant skills-->
+#
 
+<!--skills-->
+<h3 align="left">Skills</h3>
+
+> **Technical**
+>
+> OS: `linux` `sh` | Scripting: `c/c++` `python`
+
+> **Financial**
+>
+> Valuation: `M & A` `Leveraged Buyout`
 
 <!--financial engineering projects>

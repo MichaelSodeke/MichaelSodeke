@@ -46,6 +46,17 @@
 
 > **Financial**
 >
-> Valuation: `M & A` `Leveraged Buyout` `Comparable Comps` | Trading: `Equities Market` `Commodities Market`
+> Valuation: `M & A` `Leveraged Buyout` `Comparable Comps` | Trading: `Equities Market` `Derivatives Market`
 
-<!--financial engineering projects>
+#
+
+<!--financial engineering projects--->
+<h3 align="left">Trading Projects</h3>
+
+> `SEP 10, 2021` || **ASSET CLASS** - DERIVATIVES | **CONTRACT** - ETF | **DURATION** - SEMI-ANNUAL | **POSITION** - LONG
+> 
+> Inspected historic `CPI`, `PPI`, and `iGDPpd` data to monitor inflation rate impact on US price levels, and invested xx% of portfolio in `BDRY`, xx%
+> in `GSP`, and xx% in `USOI` ETFs due to *state reason*.
+> - **SECURITY**: `BDRY` - baught 1 share at $30.14; xx.xx% median return; sold at $xx.xx
+> - **SECURITY**: `GSP` - baught 1 share at $15.41; xx.xx% median return; sold at $xx.xx
+> - **SECURITY**: `USOI` - baught 1 share at $5.21; xx.xx% median return; sold at $xx.xx

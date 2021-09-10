@@ -42,7 +42,7 @@
 
 > **Technical**
 >
-> OS: `linux` `sh` | Scripting: `c/c++` `python`
+> OS: `linux` `sh` | Scripting: `c/c++` `python` | DevOps: `Docker` | DB Servers: `SQLite` `MySQL` | DS Libraries: `tensorflow`
 
 > **Financial**
 >

@@ -53,10 +53,10 @@
 <!--financial engineering projects--->
 <h3 align="left">Trading Projects</h3>
 
-> `SEP 10, 2021` || **ASSET** - DERIVATIVES | **TYPE** - ETF | **TIME** - SEMI-ANNUAL | **POSITION** - LONG
+> `SEP 10, 2021` | **ASSET** - DERIVATIVES | **TYPE** - ETF | **TIME** - SEMI-ANNUAL | **POSITION** - LONG
 > 
-> Inspected historic `CPI`, `PPI`, and `iGDPpd` data to monitor inflation rate impact on US price levels, and invested 60% of portfolio in `BDRY`, 30%
-> in `GSP`, and 10% in `USOI` ETFs due to *state reason*.
-> - **SECURITY**: `BDRY` - baught 1 share at $30.14; xx.xx% median return; sold at $xx.xx
-> - **SECURITY**: `GSP` - baught 1 share at $15.41; xx.xx% median return; sold at $xx.xx
-> - **SECURITY**: `USOI` - baught 1 share at $5.21; xx.xx% median return; sold at $xx.xx
+> **PORTFOLIO SUMMARY**
+> - Deduced massive US supply chain disruption would take effect due to lockdown and monetary policy mandates.
+> - Inspected historic `CPI`, `PPI`, and `iGDPpd` data to monitor inflation rate impact on US price levels.
+> - Invested 50% of portfolio in *one* share of `BDRY`, 26% in *one* share of `GSP`, and 9% in *one* share of `USOI` ETFs.
+> - Initial portfolio value was $50.76 on `SEP 10, 2021`; ending portfolio value was $xxx,xxx,xxx.xx on `SEP xx, 2021`.

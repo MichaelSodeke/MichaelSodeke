@@ -46,6 +46,17 @@
 
 > **Financial**
 >
-> Valuation: `M & A` `Leveraged Buyout` `Comparable Comps` | Trading: `Equities Market` `Commodities Market`
+> Valuation: `M & A` `Leveraged Buyout` `Comparable Comps` | Trading: `Equities` `Derivatives`
 
-<!--financial engineering projects>
+#
+
+<!--financial engineering projects--->
+<h3 align="left">Trading Projects</h3>
+
+> `SEP 10, 2021` | **ASSET** - DERIVATIVES | **TYPE** - ETF | **TIME** - SEMI-ANNUAL | **POSITION** - LONG
+> 
+> **PORTFOLIO SUMMARY**
+> - Deduced massive US supply chain disruption would take effect due to lockdown and monetary policy mandates.
+> - Inspected historic `CPI`, `PPI`, and `iGDPpd` data to monitor inflation rate impact on US price levels.
+> - Invested 50% of portfolio in *one* share of `BDRY`, 26% in *one* share of `GSP`, and 9% in *one* share of `USOI` ETFs.
+> - Initial portfolio value was $50.76 on `SEP 10, 2021`; ending portfolio value was $xxx,xxx,xxx.xx on `SEP xx, 2021`.

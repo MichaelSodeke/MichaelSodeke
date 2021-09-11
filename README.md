@@ -46,7 +46,7 @@
 
 > **Financial**
 >
-> Valuation: `M & A` `Leveraged Buyout` `Comparable Comps` | Trading: `Equities Market` `Derivatives Market`
+> Valuation: `M & A` `Leveraged Buyout` `Comparable Comps` | Trading: `Equities` `Derivatives`
 
 #
 

@@ -58,5 +58,5 @@
 > **PORTFOLIO SUMMARY**
 > - Deduced US supply chain disruption would take effect due to lockdown and monetary policy mandates.
 > - Inspected historic `CPI`, `PPI`, and `iGDPpd` data to monitor inflation rate impact on US price levels.
-> - Invested 50% in *one* share of `BDRY`, 26% in *one* share of `GSP`, and 9% in *one* share of `USOI` ETFs.
+> - Invested 50% in *one* share of `BDRY`, 26% in *one* share of `GSP`, and 9% in *one* share of `USOI` *commodities* ETFs.
 > - Initial portfolio value was $50.76 on `SEP 10, 2021`; ending value was $xxx,xxx,xxx.xx on `SEP xx, 2021`.

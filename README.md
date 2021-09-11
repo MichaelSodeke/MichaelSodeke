@@ -55,8 +55,8 @@
 
 > `SEP 10, 2021` || **ASSET** - DERIVATIVES | **TYPE** - ETF | **TIME** - SEMI-ANNUAL | **POSITION** - LONG
 > 
-> Inspected historic `CPI`, `PPI`, and `iGDPpd` data to monitor inflation rate impact on US price levels, and invested xx% of portfolio in `BDRY`, xx%
-> in `GSP`, and xx% in `USOI` ETFs due to *state reason*.
+> Inspected historic `CPI`, `PPI`, and `iGDPpd` data to monitor inflation rate impact on US price levels, and invested 60% of portfolio in `BDRY`, 30%
+> in `GSP`, and 10% in `USOI` ETFs due to *state reason*.
 > - **SECURITY**: `BDRY` - baught 1 share at $30.14; xx.xx% median return; sold at $xx.xx
 > - **SECURITY**: `GSP` - baught 1 share at $15.41; xx.xx% median return; sold at $xx.xx
 > - **SECURITY**: `USOI` - baught 1 share at $5.21; xx.xx% median return; sold at $xx.xx

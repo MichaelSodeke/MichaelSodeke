@@ -53,7 +53,7 @@
 <!--financial engineering projects--->
 <h3 align="left">Trading Projects</h3>
 
-> `SEP 10, 2021` || **ASSET CLASS** - DERIVATIVES | **CONTRACT** - ETF | **DURATION** - SEMI-ANNUAL | **POSITION** - LONG
+> `SEP 10, 2021` || **ASSET** - DERIVATIVES | **CONTRACT** - ETF | **DURATION** - SEMI-ANNUAL | **POSITION** - LONG
 > 
 > Inspected historic `CPI`, `PPI`, and `iGDPpd` data to monitor inflation rate impact on US price levels, and invested xx% of portfolio in `BDRY`, xx%
 > in `GSP`, and xx% in `USOI` ETFs due to *state reason*.

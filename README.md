@@ -1,4 +1,7 @@
 <!--my name-->
+
+<img src="http://assets.banjiajia.com/images/posts/1/d95a7523d08c7e4a6ede8dc7b5877253a2ce9cb2"/>
+
 <h1 align="center">Michael Šòdéké</h1>
 <h3 align="center">A Mathematician at University of Idaho.</h3>
 
@@ -11,9 +14,9 @@
 <!--about me-->
 <h3 align="left">About Me</h3>
 <p align="left", style="color:red;">
-    My name is Michael Šòdéké. I am a Maths major specializing in Computational Maths, graduating in 2023.
-    My future goal is to work as an Investment Banker for three years at a bulge bracket bank, then later work for an
-    additional three years as a Quantitative Trader at the same bank.
+    I am a Maths major specializing in Computational Maths, graduating in 2023.
+    My initial goal is to work as an <b>Investment Banking Analyst</b> for a few years at a bulge bracket bank, then later work my way
+    up to <b>Managing Director</b> at the same bank.
 </p>
 
 #
@@ -23,7 +26,7 @@
 <p align="left", style="color:gray;">
     My goal working as an Investment Banker is to gain experience learning how to raise capital for companies and governments, as 
     well as learning how to advise them on ways they can meet their financial needs. Also, my initial plan is to create a tech start-up
-    based on developing hardware and software for IoT devices. Therefore, the experiences gained working as an Investment
+    based on developing hardware and software for IoT devices. The experiences gained working as an Investment
     Banker will assist me well when managing my firm's financial affairs.
 </p>
 
@@ -31,8 +34,8 @@
     In addition, my interest in capital markets involve developing financial literacy on how the exchangement of funds and currencies help
     create value in a society and its economy. Events, such as Nixon taking the U.S. off the Bretton-Woods system, the 2008 stock market and housing
     crash, the 2010 flash crash, or the recent COVID-19 pandemic, illustrate the importance of being financially literate
-    during financial and economic crises. With such literacy I'll be able to secure my finances, retain my financial mobility,
-    and increase my socio-economic status.
+    during financial and economic crises. With such literacy I'll be able to <b>secure</b> my finances, <b>retain</b> my financial mobility,
+    and <b>increase</b> my socio-economic status.
 </p>
 
 #
@@ -40,7 +43,7 @@
 <!--financial engineering projects--->
 <h3 align="left">Trading Projects</h3>
 
-> `SEP 10, 2021` | **ASSET** - DERIVATIVES | **TYPE** - ETF | **TIME** - SEMI-ANNUAL | **POSITION** - LONG
+> `SEP 10, 2021` | **ASSET** - DERIVATIVES | **CONTRACT** - ETF | **TIME** - SEMI-ANNUAL | **POSITION** - LONG
 > 
 > **PORTFOLIO SUMMARY**
 > - Deduced US supply chain disruption would take effect due to lockdown and monetary policy mandates.
@@ -68,7 +71,7 @@
 > **Technical: DevSecOps**
 >
 > DO:
-	`docker` <img src="https://www.pinclipart.com/picdir/big/331-3317152_from-docker-images-docker-container-docker-engine-logo.png" alt="python" width="30" height="30"/>
+	`docker` <img src="https://www.pinclipart.com/picdir/big/331-3317152_from-docker-images-docker-container-docker-engine-logo.png" width="30" height="30"/>
 
 > **Technical: Database Services**
 >

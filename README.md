@@ -85,4 +85,4 @@
 
 > **Financial**
 >
-> Valuation: `M & A` `Leveraged Buyout` `Comparable Comps` | Trading: `Equities` `Derivatives`
+> Accounting: `Financial Statements` `Financial Analysis` | Valuation: `M & A` `Leveraged Buyout` `Comparable Comps` | Trading: `Equities` `Derivatives` | Quantitative Analysis: `...`

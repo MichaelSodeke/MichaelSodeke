@@ -58,33 +58,28 @@
 
 > **Technical: Operating Systems**
 >
-> OS:
- 	`linux` <img src="https://www.pinclipart.com/picdir/big/281-2813338_tux-kernel-computer-linux-logo-software-clipart.png" width="22" height="22"/>
+> `linux` <img src="https://www.pinclipart.com/picdir/big/281-2813338_tux-kernel-computer-linux-logo-software-clipart.png" width="22" height="22"/>
 
 > **Technical: Scripting Languages**
 >
-> SL: 
-	`bash` <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="25" height="25"/> 
-	`c/c++` <img src="https://cdn.freebiesupply.com/logos/large/2x/c-logo-png-transparent.png" width="25" height="25"/> 
-	`python` <img src="https://www.pinclipart.com/picdir/big/552-5520651_python-django-scikit-learn-javascript-programming-language-python.png" width="25" height="25"/> 
+>  `bash` <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="25" height="25"/> 
+>  `c/c++` <img src="https://cdn.freebiesupply.com/logos/large/2x/c-logo-png-transparent.png" width="25" height="25"/> 
+>  `python` <img src="https://www.pinclipart.com/picdir/big/552-5520651_python-django-scikit-learn-javascript-programming-language-python.png" width="25" height="25"/> 
 
 > **Technical: DevSecOps**
 >
-> DO:
-	`docker` <img src="https://www.pinclipart.com/picdir/big/331-3317152_from-docker-images-docker-container-docker-engine-logo.png" width="30" height="30"/>
+> `docker` <img src="https://www.pinclipart.com/picdir/big/331-3317152_from-docker-images-docker-container-docker-engine-logo.png" width="30" height="30"/>
 
 > **Technical: Database Services**
 >
-> DB: 
-	`mysql` <img src="https://www.nicepng.com/png/detail/14-143154_mysql-dolphin-square-mysql-dolphin-logo.png" width="25" height="25"/> 
-	`hadoop` <img src="https://www.pinclipart.com/picdir/big/382-3829856_sorting-reducer-input-values-in-hadoop-hadoop-elephant.png" width="30" height="25"/> 
-	`mongodb` <img src="https://www.mongodb.com/developer/images/how-to/leaf.png" width="15" height="25"/> 
-	`cassandra` <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/640px-Cassandra_logo.svg.png" width="30" height="25"/>
+>  `mysql` <img src="https://www.nicepng.com/png/detail/14-143154_mysql-dolphin-square-mysql-dolphin-logo.png" width="25" height="25"/> 
+>  `hadoop` <img src="https://www.pinclipart.com/picdir/big/382-3829856_sorting-reducer-input-values-in-hadoop-hadoop-elephant.png" width="30" height="25"/> 
+>  `mongodb` <img src="https://www.mongodb.com/developer/images/how-to/leaf.png" width="15" height="25"/> 
+>  `cassandra` <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/640px-Cassandra_logo.svg.png" width="30" height="25"/>
 
 > **Technical: Data Science**
 >
-> DS:
-	`tensorflow` <img src="https://miro.medium.com/max/3150/1*iDQvKoz7gGHc6YXqvqWWZQ.png" width="25" height="25"/> 
+> `tensorflow` <img src="https://miro.medium.com/max/3150/1*iDQvKoz7gGHc6YXqvqWWZQ.png" width="25" height="25"/> 
 
 > **Financial**
 >
